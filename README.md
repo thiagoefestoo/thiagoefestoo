@@ -14,7 +14,7 @@ Sou apaixonado por **desenvolvimento de software**, **arquitetura limpa** e **es
   <a href="https://github.com/thiagosilva">
     <img src="https://img.shields.io/badge/GitHub-THIAGOSILVA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-silva-54a6a0344/">
+  <a href="[https://www.linkedin.com/in/thiagomatossilva/](https://www.linkedin.com/in/thiagomatossilva/)">
     <img src="https://img.shields.io/badge/LinkedIn-THIAGOSILVA-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
